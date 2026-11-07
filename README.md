@@ -12,7 +12,6 @@
 ![FiveM](https://img.shields.io/badge/FiveM-0D1117?style=for-the-badge&logo=fivem&logoColor=F40552)
 ![Project Type](https://img.shields.io/badge/Portfolio-Showcase-1CE8FF?style=for-the-badge)
 
-</div>
 
 ---
 
